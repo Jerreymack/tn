@@ -1,230 +1,287 @@
 [
   {
     "ABRV": "RTC",
-    "CITY": "Québec"
+    "CITY": "Québec",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "STL",
-    "CITY": "Laval"
+    "CITY": "Laval",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TRANSIT",
-    "CITY": "Saskatoon"
+    "CITY": "Saskatoon",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "RATP",
-    "CITY": "Paris"
+    "CITY": "Paris",
+    "COUNTRY_CODE_ISO": "FR"
   },
   {
     "ABRV": "STO",
-    "CITY": "Gatineau"
+    "CITY": "Gatineau",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "CT",
-    "CITY": "Calgary"
+    "CITY": "Calgary",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": null,
-    "CITY": "Worldwide"
+    "CITY": "Worldwide",
+    "COUNTRY_CODE_ISO": null
   },
   {
     "ABRV": "RT",
-    "CITY": "Regina"
-  },
-  {
-    "ABRV": "CRTM",
-    "CITY": "Madrid"
+    "CITY": "Regina",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TCL",
-    "CITY": "Lyon"
+    "CITY": "Lyon",
+    "COUNTRY_CODE_ISO": "FR"
+  },
+  {
+    "ABRV": "CRTM",
+    "CITY": "Madrid",
+    "COUNTRY_CODE_ISO": "ES"
   },
   {
     "ABRV": "TMB",
-    "CITY": "Barcelona"
+    "CITY": "Barcelona",
+    "COUNTRY_CODE_ISO": "ES"
   },
   {
     "ABRV": "DRT",
-    "CITY": "Durhamregion"
-  },
-  {
-    "ABRV": "KVV",
-    "CITY": "Karlsruhe"
+    "CITY": "Durhamregion",
+    "COUNTRY_CODE_ISO": ""
   },
   {
     "ABRV": "TAM",
-    "CITY": "Russell"
+    "CITY": "Russell",
+    "COUNTRY_CODE_ISO": "CA"
+  },
+  {
+    "ABRV": "KVV",
+    "CITY": "Karlsruhe",
+    "COUNTRY_CODE_ISO": "DE"
   },
   {
     "ABRV": "RTCS",
-    "CITY": "Shawinigan"
+    "CITY": "Shawinigan",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "SVB",
-    "CITY": "Bern"
+    "CITY": "Bern",
+    "COUNTRY_CODE_ISO": "CH"
   },
   {
     "ABRV": "PLU",
-    "CITY": "Côte-De-Beaupré"
-  },
-  {
-    "ABRV": "FTO",
-    "CITY": "Fredericton"
+    "CITY": "Côte-De-Beaupré",
+    "COUNTRY_CODE_ISO": ""
   },
   {
     "ABRV": "SJSR",
-    "CITY": "Saint-Jean-sur-Richelieu"
+    "CITY": "Saint-Jean-sur-Richelieu",
+    "COUNTRY_CODE_ISO": "CA"
+  },
+  {
+    "ABRV": "FTO",
+    "CITY": "Fredericton",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TTC",
-    "CITY": "Toronto"
+    "CITY": "Toronto",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TCD",
-    "CITY": "Drummondville"
+    "CITY": "Drummondville",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "REGÎM",
-    "CITY": "Gaspésie"
+    "CITY": "Gaspésie",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TCM",
-    "CITY": "Matane"
+    "CITY": "Matane",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "KT",
-    "CITY": "Kingston"
+    "CITY": "Kingston",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TBM",
-    "CITY": "Bordeaux"
+    "CITY": "Bordeaux",
+    "COUNTRY_CODE_ISO": "FR"
   },
   {
     "ABRV": "MTA",
-    "CITY": "New York City"
+    "CITY": "New York City",
+    "COUNTRY_CODE_ISO": "US"
   },
   {
     "ABRV": "RTL",
-    "CITY": "Longueuil"
+    "CITY": "Longueuil",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "HART",
-    "CITY": "Tampa"
+    "CITY": "Tampa",
+    "COUNTRY_CODE_ISO": "US"
   },
   {
     "ABRV": "STS",
-    "CITY": "Saguenay"
+    "CITY": "Saguenay",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "CBT",
-    "CITY": "Cobourg"
+    "CITY": "Cobourg",
+    "COUNTRY_CODE_ISO": ""
   },
   {
     "ABRV": "STS",
-    "CITY": "Sherbrooke"
+    "CITY": "Sherbrooke",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "BVG",
-    "CITY": "Berlin"
+    "CITY": "Berlin",
+    "COUNTRY_CODE_ISO": "DE"
   },
   {
     "ABRV": "GRT",
-    "CITY": "Grandrivere"
+    "CITY": "Grandrivere",
+    "COUNTRY_CODE_ISO": ""
   },
   {
     "ABRV": "TCSH",
-    "CITY": "Saint-Hyacinthe"
+    "CITY": "Saint-Hyacinthe",
+    "COUNTRY_CODE_ISO": ""
   },
   {
     "ABRV": "TPG",
-    "CITY": "Geneva"
+    "CITY": "Geneva",
+    "COUNTRY_CODE_ISO": "CH"
   },
   {
     "ABRV": "VBZ",
-    "CITY": "Zurich"
+    "CITY": "Zurich",
+    "COUNTRY_CODE_ISO": "CH"
   },
   {
     "ABRV": "HALIFAX",
-    "CITY": "Halifax"
+    "CITY": "Halifax",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "STTR",
-    "CITY": "Trois-Rivières"
+    "CITY": "Trois-Rivières",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TRANSLINK",
-    "CITY": "Vancouver"
+    "CITY": "Vancouver",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "ETS",
-    "CITY": "Edmonton"
+    "CITY": "Edmonton",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "OPTYMO",
-    "CITY": "Belfort"
+    "CITY": "Belfort",
+    "COUNTRY_CODE_ISO": "FR"
   },
   {
     "ABRV": "TUG",
-    "CITY": "Granby"
+    "CITY": "Granby",
+    "COUNTRY_CODE_ISO": ""
   },
   {
     "ABRV": "TAC",
-    "CITY": "Annemasse"
+    "CITY": "Annemasse",
+    "COUNTRY_CODE_ISO": "FR"
   },
   {
     "ABRV": "STL",
-    "CITY": "Lévis"
+    "CITY": "Lévis",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "CT",
-    "CITY": "Cornwall"
+    "CITY": "Cornwall",
+    "COUNTRY_CODE_ISO": ""
   },
   {
     "ABRV": "RTM",
-    "CITY": "Marseille"
+    "CITY": "Marseille",
+    "COUNTRY_CODE_ISO": "FR"
   },
   {
     "ABRV": "STM",
-    "CITY": "Montréal"
+    "CITY": "Montréal",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "MDP",
-    "CITY": "Porto"
+    "CITY": "Porto",
+    "COUNTRY_CODE_ISO": "PT"
   },
   {
     "ABRV": "ILEVIA",
-    "CITY": "Lille"
+    "CITY": "Lille",
+    "COUNTRY_CODE_ISO": "FR"
   },
   {
     "ABRV": "WT",
-    "CITY": "Winnipeg"
+    "CITY": "Winnipeg",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "ANM",
-    "CITY": "Napoli"
+    "CITY": "Napoli",
+    "COUNTRY_CODE_ISO": "IT"
   },
   {
     "ABRV": "BT",
-    "CITY": "Brockville"
+    "CITY": "Brockville",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TIC",
-    "CITY": "Compiègne"
+    "CITY": "Compiègne",
+    "COUNTRY_CODE_ISO": "FR"
   },
   {
     "ABRV": "STR",
-    "CITY": "Rimouski"
+    "CITY": "Rimouski",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TRN",
-    "CITY": "Rimouski-Neigette"
+    "CITY": "Rimouski-Neigette",
+    "COUNTRY_CODE_ISO": "CA"
   },
   {
     "ABRV": "TFL",
-    "CITY": "London"
+    "CITY": "London",
+    "COUNTRY_CODE_ISO": "UK"
   },
   {
     "ABRV": "CTS",
-    "CITY": "Strasbourg"
+    "CITY": "Strasbourg",
+    "COUNTRY_CODE_ISO": "FR"
   }
 ]
