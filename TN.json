@@ -1,287 +1,287 @@
 [
   {
-    "ABRV": "RTC",
-    "CITY": "Québec",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "RTC",
+    "city": "Québec",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "STL",
-    "CITY": "Laval",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "STL",
+    "city": "Laval",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TRANSIT",
-    "CITY": "Saskatoon",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "TRANSIT",
+    "city": "Saskatoon",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "RATP",
-    "CITY": "Paris",
-    "COUNTRY_CODE_ISO": "FR"
+    "abrv": "RATP",
+    "city": "Paris",
+    "country_code_iso": "FR"
   },
   {
-    "ABRV": "STO",
-    "CITY": "Gatineau",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "STO",
+    "city": "Gatineau",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "CT",
-    "CITY": "Calgary",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "CT",
+    "city": "Calgary",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": null,
-    "CITY": "Worldwide",
-    "COUNTRY_CODE_ISO": null
+    "abrv": null,
+    "city": "Worldwide",
+    "country_code_iso": null
   },
   {
-    "ABRV": "RT",
-    "CITY": "Regina",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "RT",
+    "city": "Regina",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TCL",
-    "CITY": "Lyon",
-    "COUNTRY_CODE_ISO": "FR"
+    "abrv": "TCL",
+    "city": "Lyon",
+    "country_code_iso": "FR"
   },
   {
-    "ABRV": "CRTM",
-    "CITY": "Madrid",
-    "COUNTRY_CODE_ISO": "ES"
+    "abrv": "CRTM",
+    "city": "Madrid",
+    "country_code_iso": "ES"
   },
   {
-    "ABRV": "TMB",
-    "CITY": "Barcelona",
-    "COUNTRY_CODE_ISO": "ES"
+    "abrv": "TMB",
+    "city": "Barcelona",
+    "country_code_iso": "ES"
   },
   {
-    "ABRV": "DRT",
-    "CITY": "Durhamregion",
-    "COUNTRY_CODE_ISO": ""
+    "abrv": "DRT",
+    "city": "Durhamregion",
+    "country_code_iso": ""
   },
   {
-    "ABRV": "TAM",
-    "CITY": "Russell",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "TAM",
+    "city": "Russell",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "KVV",
-    "CITY": "Karlsruhe",
-    "COUNTRY_CODE_ISO": "DE"
+    "abrv": "KVV",
+    "city": "Karlsruhe",
+    "country_code_iso": "DE"
   },
   {
-    "ABRV": "RTCS",
-    "CITY": "Shawinigan",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "RTCS",
+    "city": "Shawinigan",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "SVB",
-    "CITY": "Bern",
-    "COUNTRY_CODE_ISO": "CH"
+    "abrv": "SVB",
+    "city": "Bern",
+    "country_code_iso": "CH"
   },
   {
-    "ABRV": "PLU",
-    "CITY": "Côte-De-Beaupré",
-    "COUNTRY_CODE_ISO": ""
+    "abrv": "PLU",
+    "city": "Côte-De-Beaupré",
+    "country_code_iso": ""
   },
   {
-    "ABRV": "SJSR",
-    "CITY": "Saint-Jean-sur-Richelieu",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "SJSR",
+    "city": "Saint-Jean-sur-Richelieu",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "FTO",
-    "CITY": "Fredericton",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "FTO",
+    "city": "Fredericton",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TTC",
-    "CITY": "Toronto",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "TTC",
+    "city": "Toronto",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TCD",
-    "CITY": "Drummondville",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "TCD",
+    "city": "Drummondville",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "REGÎM",
-    "CITY": "Gaspésie",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "REGÎM",
+    "city": "Gaspésie",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TCM",
-    "CITY": "Matane",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "TCM",
+    "city": "Matane",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "KT",
-    "CITY": "Kingston",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "KT",
+    "city": "Kingston",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TBM",
-    "CITY": "Bordeaux",
-    "COUNTRY_CODE_ISO": "FR"
+    "abrv": "TBM",
+    "city": "Bordeaux",
+    "country_code_iso": "FR"
   },
   {
-    "ABRV": "MTA",
-    "CITY": "New York City",
-    "COUNTRY_CODE_ISO": "US"
+    "abrv": "MTA",
+    "city": "New York city",
+    "country_code_iso": "US"
   },
   {
-    "ABRV": "RTL",
-    "CITY": "Longueuil",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "RTL",
+    "city": "Longueuil",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "HART",
-    "CITY": "Tampa",
-    "COUNTRY_CODE_ISO": "US"
+    "abrv": "HART",
+    "city": "Tampa",
+    "country_code_iso": "US"
   },
   {
-    "ABRV": "STS",
-    "CITY": "Saguenay",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "STS",
+    "city": "Saguenay",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "CBT",
-    "CITY": "Cobourg",
-    "COUNTRY_CODE_ISO": ""
+    "abrv": "CBT",
+    "city": "Cobourg",
+    "country_code_iso": ""
   },
   {
-    "ABRV": "STS",
-    "CITY": "Sherbrooke",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "STS",
+    "city": "Sherbrooke",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "BVG",
-    "CITY": "Berlin",
-    "COUNTRY_CODE_ISO": "DE"
+    "abrv": "BVG",
+    "city": "Berlin",
+    "country_code_iso": "DE"
   },
   {
-    "ABRV": "GRT",
-    "CITY": "Grandrivere",
-    "COUNTRY_CODE_ISO": ""
+    "abrv": "GRT",
+    "city": "Grandrivere",
+    "country_code_iso": ""
   },
   {
-    "ABRV": "TCSH",
-    "CITY": "Saint-Hyacinthe",
-    "COUNTRY_CODE_ISO": ""
+    "abrv": "TCSH",
+    "city": "Saint-Hyacinthe",
+    "country_code_iso": ""
   },
   {
-    "ABRV": "TPG",
-    "CITY": "Geneva",
-    "COUNTRY_CODE_ISO": "CH"
+    "abrv": "TPG",
+    "city": "Geneva",
+    "country_code_iso": "CH"
   },
   {
-    "ABRV": "VBZ",
-    "CITY": "Zurich",
-    "COUNTRY_CODE_ISO": "CH"
+    "abrv": "VBZ",
+    "city": "Zurich",
+    "country_code_iso": "CH"
   },
   {
-    "ABRV": "HALIFAX",
-    "CITY": "Halifax",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "HALIFAX",
+    "city": "Halifax",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "STTR",
-    "CITY": "Trois-Rivières",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "STTR",
+    "city": "Trois-Rivières",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TRANSLINK",
-    "CITY": "Vancouver",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "TRANSLINK",
+    "city": "Vancouver",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "ETS",
-    "CITY": "Edmonton",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "ETS",
+    "city": "Edmonton",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "OPTYMO",
-    "CITY": "Belfort",
-    "COUNTRY_CODE_ISO": "FR"
+    "abrv": "OPTYMO",
+    "city": "Belfort",
+    "country_code_iso": "FR"
   },
   {
-    "ABRV": "TUG",
-    "CITY": "Granby",
-    "COUNTRY_CODE_ISO": ""
+    "abrv": "TUG",
+    "city": "Granby",
+    "country_code_iso": ""
   },
   {
-    "ABRV": "TAC",
-    "CITY": "Annemasse",
-    "COUNTRY_CODE_ISO": "FR"
+    "abrv": "TAC",
+    "city": "Annemasse",
+    "country_code_iso": "FR"
   },
   {
-    "ABRV": "STL",
-    "CITY": "Lévis",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "STL",
+    "city": "Lévis",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "CT",
-    "CITY": "Cornwall",
-    "COUNTRY_CODE_ISO": ""
+    "abrv": "CT",
+    "city": "Cornwall",
+    "country_code_iso": ""
   },
   {
-    "ABRV": "RTM",
-    "CITY": "Marseille",
-    "COUNTRY_CODE_ISO": "FR"
+    "abrv": "RTM",
+    "city": "Marseille",
+    "country_code_iso": "FR"
   },
   {
-    "ABRV": "STM",
-    "CITY": "Montréal",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "STM",
+    "city": "Montréal",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "MDP",
-    "CITY": "Porto",
-    "COUNTRY_CODE_ISO": "PT"
+    "abrv": "MDP",
+    "city": "Porto",
+    "country_code_iso": "PT"
   },
   {
-    "ABRV": "ILEVIA",
-    "CITY": "Lille",
-    "COUNTRY_CODE_ISO": "FR"
+    "abrv": "ILEVIA",
+    "city": "Lille",
+    "country_code_iso": "FR"
   },
   {
-    "ABRV": "WT",
-    "CITY": "Winnipeg",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "WT",
+    "city": "Winnipeg",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "ANM",
-    "CITY": "Napoli",
-    "COUNTRY_CODE_ISO": "IT"
+    "abrv": "ANM",
+    "city": "Napoli",
+    "country_code_iso": "IT"
   },
   {
-    "ABRV": "BT",
-    "CITY": "Brockville",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "BT",
+    "city": "Brockville",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TIC",
-    "CITY": "Compiègne",
-    "COUNTRY_CODE_ISO": "FR"
+    "abrv": "TIC",
+    "city": "Compiègne",
+    "country_code_iso": "FR"
   },
   {
-    "ABRV": "STR",
-    "CITY": "Rimouski",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "STR",
+    "city": "Rimouski",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TRN",
-    "CITY": "Rimouski-Neigette",
-    "COUNTRY_CODE_ISO": "CA"
+    "abrv": "TRN",
+    "city": "Rimouski-Neigette",
+    "country_code_iso": "CA"
   },
   {
-    "ABRV": "TFL",
-    "CITY": "London",
-    "COUNTRY_CODE_ISO": "UK"
+    "abrv": "TFL",
+    "city": "London",
+    "country_code_iso": "UK"
   },
   {
-    "ABRV": "CTS",
-    "CITY": "Strasbourg",
-    "COUNTRY_CODE_ISO": "FR"
+    "abrv": "CTS",
+    "city": "Strasbourg",
+    "country_code_iso": "FR"
   }
 ]
