@@ -1,0 +1,230 @@
+[
+  {
+    "ABRV": "RTC",
+    "CITY": "Québec"
+  },
+  {
+    "ABRV": "STL",
+    "CITY": "Laval"
+  },
+  {
+    "ABRV": "TRANSIT",
+    "CITY": "Saskatoon"
+  },
+  {
+    "ABRV": "RATP",
+    "CITY": "Paris"
+  },
+  {
+    "ABRV": "STO",
+    "CITY": "Gatineau"
+  },
+  {
+    "ABRV": "CT",
+    "CITY": "Calgary"
+  },
+  {
+    "ABRV": null,
+    "CITY": "Worldwide"
+  },
+  {
+    "ABRV": "RT",
+    "CITY": "Regina"
+  },
+  {
+    "ABRV": "CRTM",
+    "CITY": "Madrid"
+  },
+  {
+    "ABRV": "TCL",
+    "CITY": "Lyon"
+  },
+  {
+    "ABRV": "TMB",
+    "CITY": "Barcelona"
+  },
+  {
+    "ABRV": "DRT",
+    "CITY": "Durhamregion"
+  },
+  {
+    "ABRV": "KVV",
+    "CITY": "Karlsruhe"
+  },
+  {
+    "ABRV": "TAM",
+    "CITY": "Russell"
+  },
+  {
+    "ABRV": "RTCS",
+    "CITY": "Shawinigan"
+  },
+  {
+    "ABRV": "SVB",
+    "CITY": "Bern"
+  },
+  {
+    "ABRV": "PLU",
+    "CITY": "Côte-De-Beaupré"
+  },
+  {
+    "ABRV": "FTO",
+    "CITY": "Fredericton"
+  },
+  {
+    "ABRV": "SJSR",
+    "CITY": "Saint-Jean-sur-Richelieu"
+  },
+  {
+    "ABRV": "TTC",
+    "CITY": "Toronto"
+  },
+  {
+    "ABRV": "TCD",
+    "CITY": "Drummondville"
+  },
+  {
+    "ABRV": "REGÎM",
+    "CITY": "Gaspésie"
+  },
+  {
+    "ABRV": "TCM",
+    "CITY": "Matane"
+  },
+  {
+    "ABRV": "KT",
+    "CITY": "Kingston"
+  },
+  {
+    "ABRV": "TBM",
+    "CITY": "Bordeaux"
+  },
+  {
+    "ABRV": "MTA",
+    "CITY": "New York City"
+  },
+  {
+    "ABRV": "RTL",
+    "CITY": "Longueuil"
+  },
+  {
+    "ABRV": "HART",
+    "CITY": "Tampa"
+  },
+  {
+    "ABRV": "STS",
+    "CITY": "Saguenay"
+  },
+  {
+    "ABRV": "CBT",
+    "CITY": "Cobourg"
+  },
+  {
+    "ABRV": "STS",
+    "CITY": "Sherbrooke"
+  },
+  {
+    "ABRV": "BVG",
+    "CITY": "Berlin"
+  },
+  {
+    "ABRV": "GRT",
+    "CITY": "Grandrivere"
+  },
+  {
+    "ABRV": "TCSH",
+    "CITY": "Saint-Hyacinthe"
+  },
+  {
+    "ABRV": "TPG",
+    "CITY": "Geneva"
+  },
+  {
+    "ABRV": "VBZ",
+    "CITY": "Zurich"
+  },
+  {
+    "ABRV": "HALIFAX",
+    "CITY": "Halifax"
+  },
+  {
+    "ABRV": "STTR",
+    "CITY": "Trois-Rivières"
+  },
+  {
+    "ABRV": "TRANSLINK",
+    "CITY": "Vancouver"
+  },
+  {
+    "ABRV": "ETS",
+    "CITY": "Edmonton"
+  },
+  {
+    "ABRV": "OPTYMO",
+    "CITY": "Belfort"
+  },
+  {
+    "ABRV": "TUG",
+    "CITY": "Granby"
+  },
+  {
+    "ABRV": "TAC",
+    "CITY": "Annemasse"
+  },
+  {
+    "ABRV": "STL",
+    "CITY": "Lévis"
+  },
+  {
+    "ABRV": "CT",
+    "CITY": "Cornwall"
+  },
+  {
+    "ABRV": "RTM",
+    "CITY": "Marseille"
+  },
+  {
+    "ABRV": "STM",
+    "CITY": "Montréal"
+  },
+  {
+    "ABRV": "MDP",
+    "CITY": "Porto"
+  },
+  {
+    "ABRV": "ILEVIA",
+    "CITY": "Lille"
+  },
+  {
+    "ABRV": "WT",
+    "CITY": "Winnipeg"
+  },
+  {
+    "ABRV": "ANM",
+    "CITY": "Napoli"
+  },
+  {
+    "ABRV": "BT",
+    "CITY": "Brockville"
+  },
+  {
+    "ABRV": "TIC",
+    "CITY": "Compiègne"
+  },
+  {
+    "ABRV": "STR",
+    "CITY": "Rimouski"
+  },
+  {
+    "ABRV": "TRN",
+    "CITY": "Rimouski-Neigette"
+  },
+  {
+    "ABRV": "TFL",
+    "CITY": "London"
+  },
+  {
+    "ABRV": "CTS",
+    "CITY": "Strasbourg"
+  }
+]
